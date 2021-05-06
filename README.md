@@ -11,4 +11,4 @@ Esse cenário acarreta não só demora desnecessária para a resolução do prob
 ## Solução
 A proposta, aqui, é tornar público e disponível um FAQ com as mensagens de erro mais comuns e respectiva solução, gerando mais eficiência para todos os envolvidos.
 O público alvo é composto pelos advogados e, em menor proporção, pelos peritos e partes, mas não pelos usuários internos (servidores e Magistrados).
-Além disso, tendo como foco a experiência do usuário, as mensagens de erro são disposta junto com a imagem da tela, facilitando a busca de forma visual.
+Além disso, tendo como foco a experiência do usuário, as mensagens de erro são mostradas em conjunto com a imagem da tela, facilitando a busca de forma visual.
