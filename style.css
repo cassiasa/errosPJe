@@ -1,3 +1,9 @@
+header {
+  text-align: right;
+  margin: 0;
+  color: white;
+}
+
 body {
   background: #3f91b730;
 }
