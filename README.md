@@ -1,10 +1,10 @@
 # errosPJe
  erros mais comuns no PJe e soluções
+ (https://cassiasa.github.io/errosPJe/)
 
 
 ## Definição do problema:
-Os usuários externos do PJe da Justiça do Trabalho (especialmente advogados e peritos) muitas vezes se deparam com erros no sistema PJe que são simples de resolver, porém precisam entrar em contato com o atendimento do Tribunal para obter a solução, pois na [Tabela_de_erros_conhecidos]
-(https://pje.csjt.jus.br/manual/index.php/Tabela_de_erros_conhecidos) o CSJT a orientação geralmente se resume a *Procurar administrador*.
+Os usuários externos do PJe da Justiça do Trabalho (especialmente advogados e peritos) muitas vezes se deparam com erros no sistema PJe que são simples de resolver, porém precisam entrar em contato com o atendimento do Tribunal para obter a solução, pois na [Tabela_de_erros_conhecidos](https://pje.csjt.jus.br/manual/index.php/Tabela_de_erros_conhecidos) a orientação do CSJT geralmente se resume a *Procurar administrador*.
 
 Esse cenário acarreta não só demora desnecessária para a resolução do problema, como também risco de prejuízo processual, podendo haver até mesmo perda de prazo. Além disso, ao ter que acionar o Tribunal, todo um aparato é mobilizado para o efetivo atendimento, sendo necessário recursos humanos (servidores qualificados), tecnológicos (computador, acesso à internet), infraestrutura física (sala de atendimento ao usuário), impactando diretamente na questão orçamentária.
 
